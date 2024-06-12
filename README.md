@@ -1,6 +1,7 @@
 # Bubble Game
 
 Welcome to the Bubble Game, a simple and entertaining web-based game where your goal is to click on the correct bubble that matches the displayed number. Watch out for the hits, keep an eye on the timer, and aim for the highest score!
+[Deloyed Link](https://bubblehit98.netlify.app/)
 
 ## How to Play
 
